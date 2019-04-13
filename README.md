@@ -1,4 +1,4 @@
-### Welcome to the RxSpliteUnion wiki!
+### Welcome to the RxDivideAggregate wiki!
 This page is about some problem you can encounter and solution for it.  
 Let's start with simple example:  
 So imagine, you have **Observable\<FireStates\>**, where **FireStates** is thoughtful c# type for information about hundred fire detectors states in your country. Suggest the infomation system has some features:
