@@ -9,3 +9,4 @@ So imagine, you have **Observable\<FireStates\>**, where **FireStates** is thoug
      Res :--------------------------D  
 
 Diagramm:
+![](https://drive.google.com/uc?export=download&id=1QntaNPVJQJ6VeXNda4XyfBIYa5-es_aF)
