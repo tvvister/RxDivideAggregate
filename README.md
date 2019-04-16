@@ -1,5 +1,5 @@
 ### Welcome to the RxDivideAggregate wiki!
-This page is about some problem you can encounter and solution for it.  
+This page is about some problem you can encounter dealing with Rx and solution for it.  
 Let's start with simple example:  
 So imagine, you have **Observable\<FireStates\>**, where **FireStates** is thoughtful c# type for information about hundreds fire detectors states in your country. Suggest the infomation system has some features:
 1. In every FireStates there is information about only several fires. In other words you have dynamic count of states in Observable element.
